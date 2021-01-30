@@ -50,6 +50,12 @@ hentaiClient.baguette().then((result) => {
     console.log(result);
 });
 
+// Fetching yuris
+
+hentaiClient.yuri().then((result) => {
+    console.log(result);
+});
+
 // Fetching nekos
 
 hentaiClient.neko().then((result) => {
