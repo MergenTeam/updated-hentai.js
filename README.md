@@ -49,6 +49,19 @@ hentaiClient.hug().then((result) => {
 hentaiClient.baguette().then((result) => {
     console.log(result);
 });
+
+// Fetching nekos
+
+hentaiClient.neko().then((result) => {
+    console.log(result);
+});
+
+// Fetching nsfw nekos
+
+hentaiClient.nsfwneko().then((result) => {
+    console.log(result);
+});
+
 ```
 
 Made by snarkyllama™
