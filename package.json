@@ -1,0 +1,22 @@
+{
+  "name": "updated-hentai.js",
+  "version": "1.0.0",
+  "description": "updated-hentai.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MergenTeam/updated-hentai.js.git"
+  },
+  "keywords": [
+    "hentai"
+  ],
+  "author": "TyphaonTyphon",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MergenTeam/updated-hentai.js/issues"
+  },
+  "homepage": "https://github.com/MergenTeam/updated-hentai.js#readme"
+}
