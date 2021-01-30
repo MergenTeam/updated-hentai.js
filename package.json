@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/MergenTeam/updated-hentai.js.git"
   },
+  "dependencies": {
+    "snekfetch": "^3.6.4"
+  },
   "keywords": [
     "hentai"
   ],
