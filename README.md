@@ -1,6 +1,4 @@
-![haha yes](https://rei-is-a.good-waifu.pw/MK0RTRF.png)
-
-## Hentai.js ~ A Hentai API wrapper!
+## Updated Hentai.js ~ A Hentai API wrapper!
 
 An API wrapper for computerfreaker's API endpoints!
 
@@ -54,6 +52,8 @@ hentaiClient.baguette().then((result) => {
 ```
 
 Made by snarkyllama™
+
+Updated by TyphaonTyphon
 
 ## Links
 
