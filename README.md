@@ -76,4 +76,4 @@ Updated by TyphaonTyphon
 
 ## Links
 
-computerfreaker's website ~ [Click me!](https://computerfreaker.cf/)
+[computerfreaker's website ~](https://computerfreaker.cf/)
